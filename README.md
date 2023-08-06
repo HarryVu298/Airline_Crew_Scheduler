@@ -1,6 +1,6 @@
 # Airline_Crew_Scheduler
 
-Airline Crew Scheduler is an application developed by Harry Vu in 2023 to help airlines organize their crew schedules based on flight assignments. It provides an interactive menu-based system where the user can:
+Airline Crew Scheduler is an application developed to help airlines organize their crew schedules based on flight assignments. It provides an interactive menu-based system where the user can:
 
 1. View a list of crew names.
 2. View all flight locations.
